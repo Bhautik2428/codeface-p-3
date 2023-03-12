@@ -317,3 +317,11 @@ a {
     position: absolute;
     right: -3vw;
 }
+
+@media only screen and (max-width: 750px){
+    * {
+        font-family: 'Oswald', sans-serif;
+        padding: 1px;
+        margin: 1px 1px;
+    }
+} 
